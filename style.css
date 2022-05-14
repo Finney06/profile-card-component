@@ -123,4 +123,7 @@ ul {
       .card {
           margin: 40% 40px 0 ;
       }
+     .attribution {
+         margin: 1rem 0;
+     }
   }
