@@ -118,3 +118,9 @@ ul {
 .attribution {
     margin: 1rem 1rem;
   }
+
+ @media (max-width:375px){
+      .card {
+          margin: auto 40px ;
+      }
+  }
