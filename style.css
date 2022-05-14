@@ -116,6 +116,10 @@ ul {
     padding: 0;
 }
 
+hr {
+    border-top: 1px solid  hsla(0, 1%, 85%, 0.507);
+}
+
 .attribution {
     margin: 1rem 1rem;
   }
