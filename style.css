@@ -122,9 +122,12 @@ ul {
 
  @media (max-width:375px){
       .card {
-          margin: 40% 40px 0 ;
+          margin: 35% 40px 0 ;
       }
      .attribution {
          margin: 1rem 0;
+     }
+     .body {
+         overflow: hidden;
      }
   }
