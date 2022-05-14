@@ -31,7 +31,7 @@ body {
     background-color: white;
     text-align: center;
     border-radius: 20px;
-    max-width: 300px;
+    max-width: 400px;
     position: relative;
 
 }
@@ -126,7 +126,7 @@ hr {
 
  @media (max-width:375px){
       .card {
-          margin: 35% 40px 0 ;
+          max-width: 300px ;
       }
      .attribution {
          margin: 1rem 0;
