@@ -121,6 +121,6 @@ ul {
 
  @media (max-width:375px){
       .card {
-          margin: auto 40px ;
+          margin: 50% 40px 0 ;
       }
   }
