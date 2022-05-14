@@ -47,7 +47,7 @@ This is a solution to the [Profile card component challenge on Frontend Mentor](
 
 ### What I learned
 
-I learnt how to center cards in different ways,was also able to position the profile picture on top of the background card and also learnt how to position background SVG images as you want and can be linked in the css code instead of using html img reference.
+I learnt how to center cards in different ways,was also able to position the profile picture on top of the background card and also learnt how to position background SVG images as you want and can be linked in the css code instead of using html img reference and also learnt what README file is all about and how to use it to give detailed explaination about the project.
 
 
 
