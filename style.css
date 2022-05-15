@@ -11,7 +11,7 @@
 body {
     background-color:var(--dark-cyan);
     background-image: url(images/bg-pattern-bottom.svg),url( images/bg-pattern-top.svg);
-    background-position:  right bottom, left top;
+    background-position:  left 50vw top 40vh, right 46vw bottom 50vh;
     background-repeat: no-repeat,no-repeat;
     margin: 0;
     overflow: hidden;
