@@ -74,5 +74,5 @@ I was able to correct some minor errors in my coding so it will be easy for scre
 
 ## Acknowledgments
 
-I would like to acknowledge the people that answered my questions on stark Overflow and Mrs Grace from Slack for helping me out in some few corrections in my code and helped me properly alighned my background image as given in the design.
+I would like to acknowledge the people that answered my questions on stark Overflow and Mrs Grace from Slack for helping me out in some few corrections in my code and helped me properly aligned my background image as given in the design.
 
